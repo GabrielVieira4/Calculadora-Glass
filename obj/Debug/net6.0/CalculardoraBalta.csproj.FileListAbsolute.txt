@@ -1,0 +1,15 @@
+C:\Aplications\CalculadoraBalta\bin\Debug\net6.0\CalculardoraBalta.exe
+C:\Aplications\CalculadoraBalta\bin\Debug\net6.0\CalculardoraBalta.deps.json
+C:\Aplications\CalculadoraBalta\bin\Debug\net6.0\CalculardoraBalta.runtimeconfig.json
+C:\Aplications\CalculadoraBalta\bin\Debug\net6.0\CalculardoraBalta.dll
+C:\Aplications\CalculadoraBalta\bin\Debug\net6.0\CalculardoraBalta.pdb
+C:\Aplications\CalculadoraBalta\obj\Debug\net6.0\CalculardoraBalta.csproj.AssemblyReference.cache
+C:\Aplications\CalculadoraBalta\obj\Debug\net6.0\CalculardoraBalta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aplications\CalculadoraBalta\obj\Debug\net6.0\CalculardoraBalta.AssemblyInfoInputs.cache
+C:\Aplications\CalculadoraBalta\obj\Debug\net6.0\CalculardoraBalta.AssemblyInfo.cs
+C:\Aplications\CalculadoraBalta\obj\Debug\net6.0\CalculardoraBalta.csproj.CoreCompileInputs.cache
+C:\Aplications\CalculadoraBalta\obj\Debug\net6.0\CalculardoraBalta.dll
+C:\Aplications\CalculadoraBalta\obj\Debug\net6.0\refint\CalculardoraBalta.dll
+C:\Aplications\CalculadoraBalta\obj\Debug\net6.0\CalculardoraBalta.pdb
+C:\Aplications\CalculadoraBalta\obj\Debug\net6.0\CalculardoraBalta.genruntimeconfig.cache
+C:\Aplications\CalculadoraBalta\obj\Debug\net6.0\ref\CalculardoraBalta.dll
